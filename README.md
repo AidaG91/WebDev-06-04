@@ -1,4 +1,5 @@
-#NOTAS
+# NOTAS
+
 No elegimos el HTML por su estética. JAMÁS.
 Elegimos el HTML por su funcionalidad.
 
